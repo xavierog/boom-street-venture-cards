@@ -1,0 +1,519 @@
+[CARD_001] "Adventurous turning point! You can choose which way to move on your next go, ______."
+Card Type: Movement
+Rating: 6/10
+Info/Comments: This card will let you turn around and go the other way if movement is possible in that direction. Useful for picking up Suits and then running the other way to speed up promotions or to avoid an expensive area.
+Symbol: ↔️
+[CARD_002] "Venture on! Roll the die again and move forward."
+Card Type: Movement
+Rating: 6/10
+Info/Comments: Really simple, this lets you roll again. Hard to argue with getting an extra turn, essentially.
+Symbol: 🎲
+[CARD_003] "Venture through space! Zoom over to any non-venture, non-suit square you like!"
+Card Type: Warping
+Rating: 8/10
+Info/Comments: This lets you warp to any shop or vacant plot, the Bank, Arcades, Roll-on squares, Boon/Boom squares, Stockbrokers, etc., just not Suit Squares or Venture Card squares. Very useful for travelling around or buying shops where you need them, and this and ALL warping cards and effects give you your choice of direction next turn.
+Symbol: ⛔🍀
+[CARD_004] "Moneymaking venture! Roll the die and get 40 times the number shown in gold coins from the player in first place!"
+Card Type: Moneymaking
+Rating: 7/10
+Info/Comments: This will let you steal coins from the player in first. The die used has the same maximum as the board you are on (This is true for ALL die-based venture cards that don't state their effects from specific numbers). If you are in first ALONE, it does nothing. If you are tied for first, you can steal from everyone tied with you. This card is quite effective right at first when everyone's net worths are the same so you can steal from everyone.
+[CARD_005] "Venture through space! Zoom over to any shop or vacant plot!"
+Card Type: Warping
+Rating: 7/10
+Info/Comments: This lets you warp to any shop or vacant plot, that's it.  Not as useful as No. 3, but still good for getting around and great for getting shops where you need them.
+[CARD_006] "Venture through space! Zoom over to any venture or suit square!"
+Card Type: Warping
+Rating: 8/10
+Info/Comments: This lets you warp to any suit square or venture card square. Quite useful for collecting suits, and there is the added bonus of getting to take another Venture Card immediately (since you're landing on those spaces).
+[CARD_007] "Special bonus! Your shops all grow by 7%!"
+Card Type: Bonus
+Rating: 9/10
+Info/Comments: Lucky Number 7, naturally. This instantly boosts the value of all of your shops (excluding most vacant plot shops) by 7%. This card will always be good, but it will be better the later in the game that you draw it.
+[CARD_008] "Venture on! Everyone's shop prices increase by 30%!  Now roll the die and move again."
+Card Type: Movement
+Rating: 7/10
+Info/Comments: All shops will charge 30% more until each of their owners next turns, meaning that yours will be more expensive the longest. You also get to roll again.  Can help or hinder, depending on where everyone is at the time.
+[CARD_009] "Venture on! Everyone's shops close for the day!  Now roll the die and move again."
+Card Type: Movement
+Rating: 7/10
+Info/Comments: All shops will be closed until each of their owners next turns, meaning that yours will be closed the longest.  You also get to roll again. Can help or hinder, depending on where everyone is at the time.
+[CARD_010] "Venture on! Everyone's shop prices cut in half!  Now roll the die and move again."
+Card Type: Movement
+Rating: 7/10
+Info/Comments: All shops will charge 30% more until each of their owners next turns, meaning that yours will be more expensive the longest. You also get to roll again.  Can help or hinder, depending on where everyone is at the time.
+[CARD_011] "Moneymaking venture! Roll the die and get 11 times the number shown in gold coins from all other players!"
+Card Type: Moneymaking
+Rating: 6/10
+Info/Comments: This lets you steal a small amount of money from everyone. Nice, but not that useful except early on.
+[CARD_012] "Capital venture! You can invest capital in any of your shops."
+Card Type: Investment
+Rating: 8/10
+Info/Comments: This card has the same effect as landing on any of your own shops. Very useful if you are having trouble landing where you need to.
+[CARD_013] "Misadventure! The values of all your shops drop by 13%!"
+Card Type: Misadventure
+Rating: 1/10
+Info/Comments: Unlucky Number 13, naturally, with its own ominous music to confirm that this is bad. All of your shops (excluding most vacant plot shops) instantly drop in value by 13%.  If you draw this, you will almost definitely take a hit.
+[CARD_014] "Misadventure! You give everyone 30G each!"
+Card Type: Misadventure
+Rating: 2/10
+Info/Comments: You have to give all other players 30G, so 90G total, normally. Not a serious hit, but a hit nonetheless.
+[CARD_015] "Moneymaking venture! Roll the die and get 50 times the number shown in gold coins from the bank!"
+Card Type: Moneymaking
+Rating: 6/10
+Info/Comments: This gives you a small to moderate amount of cash.  Can be good early on, but fairly insignificant later.
+[CARD_016] "Random venture! Shops expand in three districts picked at random!"
+Card Type: Expansion
+Rating: 7/10
+Info/Comments: The shops in three random districts will each have their values increased by 10%. The same district can even be expanded twice or even all three times, but it's all up to chance which districts are picked.
+[CARD_017] "Special bonus! You receive half of your salary!"
+Card Type: Bonus
+Rating: 9/10
+Info/Comments: This instantly gives you a nice cash bonus equal to half of your current upcoming salary. Always a good card.
+[CARD_018] "Misadventure! The bank is forcibly buying you out! You're compelled to sell a shop for only twice its value."
+Card Type: Misadventure
+Rating: 4/10
+Info/Comments: This makes you sell a shop, but you do get twice what it's currently worth. This can be helpful if you need the cash and have a shop you can spare.
+[CARD_019] "Price hike venture! Your shop prices go up by 30% until your next turn."
+Card Type: Moneymaking
+Rating: 7/10
+Info/Comments: Until your next turn, whenever someone pays at one of your shops, they pay 30% extra. Since this only affects your shops, only you get to reap the extra rewards.
+[CARD_020] "Revaluation venture! You can expand any one of your shops by 20%."
+Card Type: Expansion
+Rating: 7/10
+Info/Comments: This permanently increases the value of one of your shops by 20%. This is independent of capital investment, so you can use this to increase the value of a shop even if no more capital can be invested into it. Best used on more expensive shops as you'll get a larger increase.
+[CARD_021] "Random venture! You receive 20 stocks in a district picked at random!"
+Card Type: Stock
+Rating: 7/10
+Info/Comments: This gives you 20 stocks in a random district. It's essentially free money, plus you might get dividends from it. Quite useful.
+[CARD_022] "Cashback venture! You can sell a shop back to the bank for twice its shop value."
+Card Type: Moneymaking
+Rating: 7/10
+Info/Comments: This allows you to sell a shop for four times what it is currently worth, but you can choose not to if you wish.  For double, it can help out if you need the cash.
+[CARD_023] "Revaluation venture! You can expand any one of your shops by 50%."
+Card Type: Expansion
+Rating: 9/10
+Info/Comments: This permanently increases the value of one of your shops by 50%. This is independent of capital investment, so you can use this to increase the value of a shop even if no more capital can be invested into it. Best used on more expensive shops as you'll get a larger increase.
+[CARD_024] "Misadventure! The bank is forcibly buying you out! You're compelled to sell a shop for only 200G more than its value."
+Card Type: Misadventure
+Rating: 3/10
+Info/Comments: This makes you sell a shop, and you only get 200G more than its current shop value. It is best if you choose a cheap shop since the amount over you're getting is fixed.
+[CARD_025] "Misadventure! Your shop prices halve until your next turn!"
+Card Type: Misadventure
+Rating: 2/10
+Info/Comments: Until your next turn, whenever someone pays at one of your shops, they pay you 50% less. Not good, but at least your shops are still open.
+[CARD_026] "Lucky venture! You get a big commission until your next turn!"
+Card Type: Moneymaking
+Rating: 7/10
+Info/Comments: Until your next turn, whenever anyone else has to pay at a shop, you get a commission of 50% of the amount that the player had to pay. Late in the game, the payout can be great from this. This card has the same effect as landing on a Boom square.
+[CARD_027] "Special bonus! You receive 27 times the number of shops you own in gold coins from the bank!"
+Card Type: Bonus
+Rating: 7/10
+Info/Comments: For every shop you own, you get 27G. This can add up quite fast, especially on larger boards.
+[CARD_028] "Cameo adventure! A goodybag appears!"
+Card Type: Cameo
+Rating: 7/10
+Info/Comments: This summons a Goodybag monster from the Dragon Quest series named Gumdrops. Cameo characters act like fifth players who take their turns after the player who made them appear. At the end of their turns, they may leave.  Gumdrops will pay the costs of any shops, like any other player, except Tax Offices.
+[CARD_029] "Freebie! Take a Heart!"
+Card Type: Suit
+Rating: 8/10
+Info/Comments: This gives you a free Heart, or 100G if you already have a Heart. Either way, you get something useful.
+Symbol: 🩷
+[CARD_030] "Venture on! All shops charge a 100G flat rate!  Now roll the die and move again."
+Card Type: Movement
+Rating: 7/10
+Info/Comments: All shops will charge exactly 100G until each of their owners next turns, meaning that yours will be at that price the longest. You also get to roll again. Can help or hinder, depending on where everyone is at the time.
+[CARD_031] "Random venture! Shops expand by 10% in a district picked at random!"
+Card Type: Expansion
+Rating: 6/10
+Info/Comments: All shops in a random district have their values increased by 10%, excluding most vacant plot shops.  Helpful only if it hits a district that you have a presence in.
+[CARD_032] "Random venture! Shops expand by 20% in a district picked at random!"
+Card Type: Expansion
+Rating: 7/10
+Info/Comments: All shops in a random district have their values increased by 20%, excluding most vacant plot shops.  Helpful only if it hits a district that you have a presence in.
+[CARD_033] "Cashback venture! You can sell a shop back to the bank for three times its shop value."
+Card Type: Moneymaking
+Rating: 8/10
+Info/Comments: This allows you to sell a shop for four times what it is currently worth, but you can choose not to if you wish.  At three times, it's a good boost if you need it.
+[CARD_034] "Dicey adventure! Roll 1/3/5 and your shops close for the day.  Roll 2/4/6 and everyone else's shops close."
+Card Type: Other
+Rating: 3/10
+Info/Comments: If you roll 1/3/5 your shops close until your next turn, and 2/4/6 closes your competitor's shops until their next turns. Either way, this card doesn't really help you.
+[CARD_035] "Stock venture! You can sell stocks you own at 35% above the market value."
+Card Type: Stock
+Rating: 8/10
+Info/Comments: This lets you sell stock from one district for 35% more than its worth. You can make a lot of money from this, just make sure you're done with those stocks or can live without them.
+[CARD_036] "Capital venture! You can pay 100G for the chance to invest in your shops."
+Card Type: Investment
+Rating: 5/10
+Info/Comments: This is just like landing on one of your shops, except you have to pay 100G extra to invest. Only use this if you really need it.
+[CARD_037] "Random venture! Shops expand by 30% in a district picked at random!"
+Card Type: Expansion
+Rating: 7/10
+Info/Comments: All the shop values in one randomly picked district are increased by 30%. This will also increase the stock prices by that much also. Good, but random.
+[CARD_038] "Stock venture! You can buy stocks in a district of your choice at 10% above the market value."
+Card Type: Stock
+Rating: 5/10
+Info/Comments: You are allowed to buy stocks, but you have to pay 10% more than they're worth. Use this only if you intend to invest in a district.
+[CARD_039] "Suit venture! Buy a Suit Yourself card for 100G."
+Card Type: Suit
+Rating: 8/10
+Info/Comments: You are allowed to buy a Suit Yourself card if you have at least 100G in ready cash. Buy it if you can spare the money.
+[CARD_040] "Misadventure! You give away 10% of your ready cash to the player in last place!"
+Card Type: Misadventure
+Rating: 2/10
+Info/Comments: If you pick a card in the forties, it will almost always be bad news. If you are not in last place, then 10% of your ready cash is given to the player in last place.
+[CARD_041] "Misadventure! Stock prices fall by 10% in a district picked at random!"
+Card Type: Misadventure
+Rating: 3/10
+Info/Comments: If you pick a card in the forties, it will almost always be bad news. Stock prices in one randomly picked district will fall by 10%. This can be good if you want to buy more stock or devalue competitors' stocks.
+[CARD_042] "Misadventure! Stock prices fall by 20% in a district picked at random!"
+Card Type: Misadventure
+Rating: 3/10
+Info/Comments: If you pick a card in the forties, it will almost always be bad news. Stock prices in one randomly picked district will fall by 20%. This can be good if you want to buy more stock or devalue competitors' stocks.
+[CARD_043] "Misadventure! You pay an assets tax of two gold coins per unit of stock that you own!"
+Card Type: Misadventure
+Rating: 1/10
+Info/Comments: If you pick a card in the forties, it will almost always be bad news. For each stock that you have, you pay 2G. This adds up REALLY fast, so watch out!
+[CARD_044] "Misadventure! Roll the die and pay 44 times  the number shown in gold coins to the player in last place!"
+Card Type: Misadventure
+Rating: 2/10
+Info/Comments: If you pick a card in the forties, it will almost always be bad news. If you are not in last place, then you pay 44 times a roll of the die to the player in last place. With a low number it's not too bad.
+[CARD_045] "Dicey adventure! Roll 1/3/5 to warp to a take-a-break square.  Roll 2/4/6 to warp to the arcade."
+Card Type: Warping
+Rating: 5/10
+Info/Comments: One of only two "forties" cards that can be good.  Roll odd and you warp to a take-a-break square and close your shops. Roll even and you warp to the arcade and play a minigame. Whether or not the warping itself helps you, depends on your situation.
+[CARD_046] "Misadventure! You drop your wallet and lose 10% of your ready cash!"
+Card Type: Misadventure
+Rating: 1/10
+Info/Comments: If you pick a card in the forties, it will almost always be bad news. You instantly lose 10% of your ready cash. The only small mercy here is that no one else gets that money.
+[CARD_047] "Dicey adventure! Roll 2-6 to get all the suits.  Roll 1 and lose all your suits."
+Card Type: Suit
+Rating: 8/10
+Info/Comments: One of only two "forties" cards that can be good, and this card actually is quite good, or awful. If you roll a 2, 3, 4, 5, or 6, then you will get all 4 suits. BUT if you roll a 1, then all the suits you have are gone. The odds are over 80% in your favor, so that's good. If you already have all four suits and roll 2-6, you only get a measly 100G for your huge gamble.
+[CARD_048] "Misadventure! All shops in a district picked at random fall in value by 10%!"
+Card Type: Misadventure
+Rating: 2/10
+Info/Comments: If you pick a card in the forties, it will almost always be bad news. One district at random's shops will lose 10% of their shop values. Hopefully, it'll be a competitor's district.
+[CARD_049] "Misadventure! All shops in a district picked at random fall in value by 20%!"
+Card Type: Misadventure
+Rating: 1/10
+Info/Comments: If you pick a card in the forties, it will almost always be bad news. One district at random's shops will lose 20% of their shop values. Hopefully, it'll be a competitor's district.
+[CARD_050] "Venture on! Move forward the same number of squares again."
+Card Type: Movement
+Rating: 6/10
+Info/Comments: Whatever your last roll of the die was, you move that number of spaces again. This card's usefulness depends on where it will put you.
+[CARD_051] "Venture on! Move forward 1 square more."
+Card Type: Movement
+Rating: 6/10
+Info/Comments: You get to move forward just 1 square further. This card's usefulness depends on where it will put you.
+[CARD_052] "Venture on! Move forward another 2 squares."
+Card Type: Movement
+Rating: 6/10
+Info/Comments: You get to move forward 2 more squares. This card's usefulness depends on where it will put you.
+[CARD_053] "Venture through space! Zoom over to the bank!"
+Card Type: Warping
+Rating: 6/10
+Info/Comments: This card forces you directly to the bank. If you have all four suits, then it's great. But at other times, it could do more harm than good, since you do not get a choice if you want to warp or not.
+[CARD_054] "Venture through space! Pay 100G to zoom straight to the bank!"
+Card Type: Warping
+Rating: 7/10
+Info/Comments: If you pay 100G you can go directly to the bank.  This card scores better than No. 53 only because it gives you the choice to warp or not.
+[CARD_055] "Venture on! Roll the die again and move forward (with an invitation to browse thrown in!)."
+Card Type: Movement
+Rating: 9/10
+Info/Comments: You get to roll again, and for that roll only, you don't have to pay at ANY shops. Very useful.
+[CARD_056] "Venture on! Roll the die again and move forward (with a half-price special offer thrown in!)."
+Card Type: Movement
+Rating: 8/10
+Info/Comments: You get to roll again, and for that roll only, you only pay half the amount at any shops. Useful.
+[CARD_057] "Venture through space! Zoom to any square you like."
+Card Type: Warping
+Rating: 10/10
+Info/Comments: This lets you go wherever you want! Need to buy a shop?  There you go. Need an isolated Suit? It's yours. Ready for a promotion? The bank's ready for you! Even if you don't want to warp, you could just select the same space that you're on to get another Venture card and your choice of direction next turn!
+[CARD_058] "Venture through space! Pay 100G to zoom to any non-venture, non-suit square you like!"
+Card Type: Warping
+Rating: 7/10
+Info/Comments: For 100G, you can warp to any shop or vacant plot, the Bank, Arcades, Roll-on squares, Boon/Boom squares, Stockbrokers, etc., just not Suit Squares or Venture Card squares. Useful for travelling around or buying shops where you need them.
+[CARD_059] "Stock venture! You can buy stocks in a district of your choice at 10% below the market value."
+Card Type: Stock
+Rating: 9/10
+Info/Comments: This lets you buy stock for 10% less than it's current price. Even if you don't need it, buy some stock and then sell it for a quick buck. Don't waste this gem.
+[CARD_060] "Random venture! Stock prices increase by 10% in a district picked at random!"
+Card Type: Stock
+Rating: 5/10
+Info/Comments: One district's stocks will increase in value by 10%, but it's random which district, so you could easily help out the competition.
+[CARD_061] "Special bonus! You receive a 10% dividend on your stocks!"
+Card Type: Bonus
+Rating: 8/10
+Info/Comments: You receive 10% of the combined value of all of your stocks in cash. Late in the game the payout from this can be ridiculous.
+[CARD_062] "Special bonus! You receive a 20% dividend on your stocks!"
+Card Type: Bonus
+Rating: 10/10
+Info/Comments: You receive 20% of the combined value of all of your stocks in cash. Late in the game the payout from this is ridiculous.
+[CARD_063] "Random venture! Stock prices increase by 20% in a district picked at random!"
+Card Type: Stock
+Rating: 6/10
+Info/Comments: One district's stocks will increase in value by 20%, but it's random which district, so you could easily help out the competition.
+[CARD_064] "Random venture! Stock prices increase by 30% in a district picked at random!"
+Card Type: Stock
+Rating: 7/10
+Info/Comments: One district's stocks will increase in value by 30%, but it's random which district, so you could easily help out the competition.
+[CARD_065] "Forced buyout venture! You can buy a vacant plot or shop for five times its value, whether someone else owns it or not."
+Card Type: Property
+Rating: 5/10
+Info/Comments: You can use this to buy any shop you want, including owned shops, but it'll cost you five times the value.  Use this only if you need it.
+[CARD_066] "Special bonus! You receive 10 of the most valuable stocks!"
+Card Type: Stock
+Rating: 9/10
+Info/Comments: Whichever stock is currently worth the most per unit of stock, you instantly get 10 of them. This'll give you money and the power to devalue the most valuable stocks.
+[CARD_067] "Stock venture! You can buy stocks in a district of your choice."
+Card Type: Stock
+Rating: 8/10
+Info/Comments: You can buy stocks, just like at a Bank or Stockbroker square. It's not fancy, but it's useful.
+[CARD_068] "Special arcade adventure! You're invited to play Memory Block!"
+Card Type: Minigame
+Rating: 7/10
+Info/Comments: You instantly get to play a round of Memory Block, just like at the Arcade. It's as good or bad as a standard round of Memory Block can be.
+[CARD_069] "Stock venture! You can sell stocks you own at 20% above the market value."
+Card Type: Stock
+Rating: 7/10
+Info/Comments: This lets you sell stock from one district for 20% more than its worth. You can make a lot of money from this, just make sure you're done with those stocks or can live without them.
+[CARD_070] "Special bonus! You get a sudden promotion and receive a salary!  (You lose any suits you have.)"
+Card Type: Bonus
+Rating: 10/10
+Info/Comments: This gives you an instant promotion! Your level goes up and you get your salary. This card will take up to four suits from you, however, including Suit Yourself cards if you lack Suits. Still, it's an exceptional card!
+[CARD_071] "Capital venture! You can invest up to 200G of the bank's money in your shops"
+Card Type: Investment
+Rating: 8/10
+Info/Comments: You are allowed to put up to 200G into one of your shops, and this comes from the bank so it's pure profit. This may be best used to safeguard a shop, depending on the rules you are playing with.
+[CARD_072] "Dicey adventure! Roll 1/3/5 to take 20 times the number of shops you own in gold coins. Roll 2/4/6 and pay the same."
+Card Type: Moneymaking
+Rating: 5/10
+Info/Comments: You either will make 20G per shop you own or lose 20G per shop instead. It's not a lot either way, meaning that this card isn't that great.
+[CARD_073] "Property venture! You can buy any unowned shop or vacant plot."
+Card Type: Property
+Rating: 9/10
+Info/Comments: Buy any unowned shop you want anywhere on the board, and you don't even have to warp there! Very useful and can be better than a warping card if you like where you are at the moment.
+[CARD_074] "Misadventure! You are forced to auction one of your shops (with a starting price of twice the shop's value)."
+Card Type: Misadventure
+Rating: 4/10
+Info/Comments: This makes you choose one of your shops to put up for auction, but the starting price is set at double the value of that shop. If other players bid it up, you will make more money. If no one bids, the bank will buy it for the starting price (double).
+[CARD_075] "Property venture! You can buy any unowned shop or vacant plot for twice its value.."
+Card Type: Property
+Rating: 7/10
+Info/Comments: You can buy any unowned shop, but you have to pay double what its worth to get it. Useful if you can spare the cash or if you really want a shop.
+[CARD_076] "Special arcade adventure! You're invited to play Round the Blocks!"
+Card Type: Minigame
+Rating: 8/10
+Info/Comments: You instantly get to play a round of Round the Blocks, just like at the Arcade. You may not win, but there's no downside to this card.
+[CARD_077] "Freebie! Take five of each district's stocks."
+Card Type: Stock
+Rating: 9/10
+Info/Comments: You instantly get five stocks from EVERY district. This also gives you enough stocks to collect the full 20% dividends from payments if you are the only person who has stock in a district. Extremely useful, especially early on.
+[CARD_078] "Property venture! You can buy any unowned shop or vacant plot for 200G more than its value."
+Card Type: Property
+Rating: 8/10
+Info/Comments: You can buy any unowned shop, but you have to pay 200G more than what its worth to get it. Still, it's worth the extra cost.
+[CARD_079] "Forced buyout venture! You can buy a vacant plot or shop for three times its value, whether someone else owns it or not."
+Card Type: Property
+Rating: 7/10
+Info/Comments: You can use this to buy any shop you want, including owned shops, but it'll cost you three times the value.  Use this only if you need it.
+[CARD_080] "Freebie! Take a Spade!"
+Card Type: Suit
+Rating: 8/10
+Info/Comments: This gives you a free Spade, or 100G if you already have a Spade. Either way, you get something useful.
+Symbol: ♠
+[CARD_081] "Misadventure! All other players can only move forward 1 on their next turn."
+Card Type: Misadventure
+Rating: 7/10
+Info/Comments: This makes it so that on their next rolls, each other player is guaranteed to roll a 1. Its use is dependant on where they'll land as a result, but at least it'll slow them down.
+[CARD_082] "Freebie! Take a Club!"
+Card Type: Suit
+Rating: 8/10
+Info/Comments: This gives you a free Club, or 100G if you already have a Club. Either way, you get something useful.
+Symbol: ♣
+[CARD_083] "Dicey adventure! Roll 1/3/5 and warp to a random location.  Roll 2/4/6 and everyone else warps."
+Card Type: Warping
+Rating: 6/10
+Info/Comments: If you roll odd then you're warping somewhere, and roll even and everyone else does instead. This is a chaotic card whose use, good or bad, depends entirely on your situation.
+[CARD_084] "Moneymaking venture! The winning player must pay you 10% of their ready cash!"
+Card Type: Moneymaking
+Rating: 7/10
+Info/Comments: If you aren't winning, then you get to steal 10% of the lead player's ready cash. If you are winning, then you get nothing but are safe from someone else drawing this card. Either way, YOU want to be the one to draw this.
+[CARD_085] "Moneymaking venture! Roll the die and get 85 times the number shown in gold coins from the bank!"
+Card Type: Moneymaking
+Rating: 7/10
+Info/Comments: This gives you a moderate amount of cash. Can be good early on, but somewhat insignificant later.
+[CARD_086] "Moneymaking venture! Take 100G from all other players!"
+Card Type: Moneymaking
+Rating: 7/10
+Info/Comments: This will reduce everyone else's cash by 100G and gives you all that money. It's a nice small bonus.
+[CARD_087] "Venture on! Roll the special all-7s-and-8s die and move forward again."
+Card Type: Movement
+Rating: 8/10
+Info/Comments: You get to roll again with the only possible die results being 7 or 8. The usefulness depends on your situation, but at least you'll move a good distance.
+[CARD_088] "Misadventure! All other players swap places!"
+Card Type: Warping
+Rating: 7/10
+Info/Comments: This forces everyone but you to swap places with each other. It can mess up everyone else's plans, or it could help them. Also, they'll have choice of direction next turn.
+[CARD_089] "Freebie! All players take a Suit Yourself card!"
+Card Type: Suit
+Rating: 8/10
+Info/Comments: The good news: You get a Suit Yourself card. The bad news: So does everyone else. Ideally, this is a card that you want another player to use a draw for.
+[CARD_090] "Price hike venture! All shop prices go up by 30% until your next turn."
+Card Type: Moneymaking
+Rating: 7/10
+Info/Comments: Until each player's next turn, whenever someone pays at one of their shops, they pay 30% extra. The description says this lasts until your next turn, but that only applies to your shops, which is better, really.
+[CARD_091] "Cameo adventure! A healslime appears!"
+Card Type: Cameo
+Rating: 8/10
+Info/Comments: This summons a Healslime monster from the Dragon Quest series named Healie. Cameo characters act like fifth players who take their turns after the player who made them appear. At the end of their turns, they may leave.  Whenever a player runs into Healie (but NOT the other way around), Healie will give that player one suit of their choice. If that player already has all four suits, then Healie will give them a Suit Yourself card instead.
+[CARD_092] "Cameo adventure! Lakitu appears!"
+Card Type: Cameo
+Rating: 7/10
+Info/Comments: This summons a Lakitu from the various Mario games. Cameo characters act like fifth players who take their turns after the player who made them appear. At the end of their turns, they may leave. Lakitu will close any shop he passes as he moves around the board. The shops remain closed until their owners next turns.
+[CARD_093] "Dicey adventure! Roll 1/3/5 and your shops expand by 10%. Roll 2/4/6 and everyone else's shops expand by 5%."
+Card Type: Expansion
+Rating: 7/10
+Info/Comments: If you roll a 1, 3, or 5, your shops increase in value by 10%, otherwise, everyone else's increase by 5%. This is a high risk/reward card.
+[CARD_094] "Freebie! Take a Diamond!"
+Card Type: Suit
+Rating: 8/10
+Info/Comments: This gives you a free Diamond, or 100G if you already have a Diamond. Either way, you get something useful.
+Symbol: 🔶
+[CARD_095] "Misadventure! You throw an impromptu party. All other players come to your location!"
+Card Type: Misadventure
+Rating: 7/10
+Info/Comments: Everyone else on the board is instantly dragged to your current location. If you are on a Suit square, they will NOT get that suit upon arrival, and will have to loop back to pick that one up. Useful for a "Misadventure" card.
+[CARD_096] "Misadventure! All players scramble to another player's location!"
+Card Type: Misadventure
+Rating: 4/10
+Info/Comments: Everyone but a random player is warped to that player's current location. This could help or hinder based on whose chosen and the situation.
+[CARD_097] "Stock rise venture! Increase stock value by 20% in a district of your choice."
+Card Type: Stock
+Rating: 10/10
+Info/Comments: This is the one and only card that allows you to choose a district's stock to increase the price of, and it does so by 20%. This can net you an EXTREME profit.
+[CARD_098] "Forced buyout venture! You can buy a vacant plot or shop for four times its value, whether someone else owns it or not."
+Card Type: Property
+Rating: 6/10
+Info/Comments: You can use this to buy any shop you want, including owned shops, but it'll cost you four times the value.  Use this only if you need it.
+[CARD_099] "Freebie! What's inside...?"
+Card Type: Suit
+Rating: 10/10
+Info/Comments: The description tells you nothing, but this is a very good card. If you do not have all of the suits, then it instantly gives you all four suits! And if you already have all four suits, you get a Suit Yourself card! Either way you get something great.
+[CARD_100] "Freebie! Take a Suit Yourself card!"
+Card Type: Suit
+Rating: 9/10
+Info/Comments: You get a Suit Yourself card that you can use to get a promotion earlier or to avoid a dangerous area. These are always useful.
+[CARD_101] "Special bonus! Your shops all grow by 21%!"
+Card Type: Bonus
+Rating: 10/10
+Info/Comments: This instantly boosts the value of all of your shops (excluding most vacant plot shops) by a whopping 21%.  This card will always be great, but it will be better the later in the game that you draw it.
+[CARD_102] "Moneymaking venture! Roll the die and get 33 times the number shown in gold coins from all other players!"
+Card Type: Moneymaking
+Rating: 8/10
+Info/Comments: This lets you steal a decent amount of money from everyone. Nice, but not that useful except early on.
+[CARD_103] "Misadventure! The values of all your shops drop by 25%!"
+Card Type: Misadventure
+Rating: 0/10
+Info/Comments: If you think No. 13. is bad, then you're gonna hate this! All of your shops (excluding most vacant plot shops) instantly drop in value by a devastating 25%.  If you draw this, you'll take a major hit. This may be the worst Venture card you can get.
+[CARD_104] "Misadventure! You give everyone 80G each!"
+Card Type: Misadventure
+Rating: 1/10
+Info/Comments: You have to give all other players 80G, so 240G total, normally. This will hurt early on.
+[CARD_105] "Moneymaking venture! Roll the die and get the number shown x your level x 40G from the bank!"
+Card Type: Moneymaking
+Rating: 9/10
+Info/Comments: You roll the die, take the result and multiply it by your level, then multiply that by 40, and you get that much money. The longer the game, the more you can get out of this.
+[CARD_106] "Freebie! Roll the die and get half the number show in Suit Yourself cards! (Decimals will be rounded down.)"
+Card Type: Suit
+Rating: 10/10
+Info/Comments: This is a powerful card. You can get a lot of Suit Yourself card with this with a single roll of the die.  If you roll a 1, you get nothing, a 2 or 3 gets you one card, a 4 or 5 gets you two cards, a 6 or 7 (if available) gets you three cards, and an 8 (if available) gets you a whopping four cards!
+[CARD_107] "Revaluation venture! You can expand any one of your shops by 30%."
+Card Type: Expansion
+Rating: 8/10
+Info/Comments: This permanently increases the value of one of your shops by 30%. This is independent of capital investment, so you can use this to increase the value of a shop even if no more capital can be invested into it. Best used on more expensive shops as you'll get a larger increase.
+[CARD_108] "Cashback venture! You can sell a shop back to the bank for four times its shop value."
+Card Type: Moneymaking
+Rating: 9/10
+Info/Comments: This allows you to sell a shop for four times what it is currently worth, but you can choose not to if you wish.  At four times, you can easily make a lot of money here.
+[CARD_109] "Revaluation venture! You can expand any one of your shops by 75%."
+Card Type: Expansion
+Rating: 10/10
+Info/Comments: This permanently increases the value of one of your shops by 75%. This is independent of capital investment, so you can use this to increase the value of a shop even if no more capital can be invested into it. Best used on more expensive shops as you'll get a larger increase.
+[CARD_110] "Special bonus! You receive 77 times the number of shops you own in gold coins from the bank!"
+Card Type: Bonus
+Rating: 9/10
+Info/Comments: For every shop you own, you get 77G. This adds up quite fast, especially on larger boards.
+[CARD_111] "Cashback venture! You can sell a shop back to the bank for 500G more than its shop value."
+Card Type: Moneymaking
+Rating: 8/10
+Info/Comments: This allows you to sell a shop for its shop value plus 500G, and you can choose not to it you wish. Since the amount over you're getting is fixed, you should probably sell a cheap shop back.
+[CARD_112] "Special bonus! You receive 100 times the number of shops you own in gold coins!"
+Card Type: Bonus
+Rating: 10/10
+Info/Comments: For every shop you own, you get 100G.  This adds up fast, period.
+[CARD_113] "Moneymaking venture! Roll the die and get the number shown x your level x 20G from the bank!"
+Card Type: Moneymaking
+Rating: 8/10
+Info/Comments: You roll the die, take the result and multiply it by your level, then multiply that by 20, and you get that much money. The longer the game, the more you can get out of this.
+[CARD_114] "Moneymaking venture! Take your level times 40G from all other players!"
+Card Type: Moneymaking
+Rating: 9/10
+Info/Comments: You get to steal 40G x Your level from all other players. This adds up real fast, especially later on.
+[CARD_115] "Misadventure! All other players can only move forward 7 on their next turn."
+Card Type: Misadventure
+Rating: 6/10
+Info/Comments: This makes it so that on their next rolls, each other player is guaranteed to roll a 7, even if 7 is not normally available on that board. Its use is dependant on where they'll land as a result.
+[CARD_116] "Moneymaking venture! Roll the die and get 60 times the number shown in gold coins from the player in first place!"
+Card Type: Moneymaking
+Rating: 9/10
+Info/Comments: This will let you steal coins from the player in first. If you are in first ALONE, it does nothing. If you are tied for first, you can steal from everyone tied with you. This card is quite effective right at first when everyone's net worths are the same so you can steal from everyone.
+[CARD_117] "Adventurous turning point! Everyone gets to choose which way to move on their next go."
+Card Type: Movement
+Rating: 5/10
+Info/Comments: This card will let everyone turn around and go the other way if movement is possible in that direction. Useful for picking up Suits and then running the other way to speed up promotions or to avoid an expensive area. The downside is that EVERYONE gets to use this. This card also seems to be more common in the Standard Rules than most of the other cards numbered 101 and up.
+[CARD_118] "Lucky venture! You get a really big commission until your next turn!"
+Card Type: Moneymaking
+Rating: 9/10
+Info/Comments: Until your next turn, whenever anyone else has to pay at a shop, you get a commission of 75% of the amount that the player had to pay. Late in the game, the payout can be huge from this. This card is the only way to receive a commission this large.
+[CARD_119] "Misadventure! You give away 20% of your ready cash to the player in last place!"
+Card Type: Misadventure
+Rating: 1/10
+Info/Comments: If you are not in last place, then 20% of your ready cash is given to the player in last place.
+[CARD_120] "Misadventure! You drop your wallet and lose 20% of your ready cash!"
+Card Type: Misadventure
+Rating: 0/10
+Info/Comments: You instantly lose 20% of your ready cash. The only small mercy here is that no one else gets that money.
+[CARD_121] "Capital venture! You can invest up to 400G of the bank's money in your shops"
+Card Type: Investment
+Rating: 9/10
+Info/Comments: You are allowed to put up to 400G into one of your shops, and this comes from the bank so it's pure profit. This may be best used to safeguard a shop, depending on the rules you are playing with.
+[CARD_122] "Moneymaking venture! The winning player must pay you 20% of their ready cash!"
+Card Type: Moneymaking
+Rating: 8/10
+Info/Comments: If you aren't winning, then you get to steal 20% of the lead player's ready cash. If you are winning, then you get nothing but are safe from someone else drawing this card. Either way, YOU want to be the one to draw this.
+[CARD_123] "Dicey adventure! Roll 1/3/5 and your shops expand by 20%. Roll 2/4/6 and everyone else's shops expand by 5%."
+Card Type: Expansion
+Rating: 8/10
+Info/Comments: If you roll a 1, 3, or 5, your shops increase in value by 20%, otherwise, everyone else's increase by 5%. This is a high risk/reward card.
+[CARD_124] "Suit venture! Buy a Suit Yourself card for 50G."
+Card Type: Suit
+Rating: 9/10
+Info/Comments: You are allowed to buy a Suit Yourself card if you have at least 50G in ready cash. Buy it if possible.
+[CARD_125] "Dicey adventure! Roll 1/3/5 to warp to a boon square. Roll 2/4/6 to warp to the arcade."
+Card Type: Warping
+Rating: 8/10
+Info/Comments: The only dicey adventure where any result can be good.  Roll odd and you go to a boon square where you can earn 20% commissions on payments. Roll even and play a game at the arcade. The only bad thing would be if you didn't want to warp at all.
+[CARD_126] "Revaluation venture! Roll the die and expand your shops by 2% for each number."
+Card Type: Expansion
+Rating: 8/10
+Info/Comments: This lets you expand your shops by 2% times the number you roll. Good, but not great, especially with the random factor.
+[CARD_127] "Special arcade adventure! You're invited to play Round the Blocks and Memory Block!"
+Card Type: Minigame
+Rating: 9/10
+Info/Comments: You instantly get to play a round of Round the Blocks AND a round of Memory Block back-to-back! This is the only way to play consecutive arcade games, and it can net you good rewards if you're lucky.
+[CARD_128] "Special bonus! You receive 55 times the number of shops you own in gold coins from the bank!"
+Card Type: Bonus
+Rating: 8/10
+Info/Comments: For every shop you own, you get 55G. This can add up quite fast, especially on larger boards.
